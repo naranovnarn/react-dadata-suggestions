@@ -1,6 +1,6 @@
 {
   "name": "react-dadata-suggestions-reactoutsideclick",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "Just another one react component for dadata suggestions",
   "license": "MIT",
   "keywords": [
@@ -13,11 +13,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/nobbynobbs/react-dadata-suggestions.git"
+    "url": "https://github.com/тут публичный адрес гита такснета"
   },
   "author": {
-    "name": "Roman Bolkhovitin",
-    "email": "rbolkhovitin@gmail.com"
+    "name": "Taxnet team",
+    "email": "office@taxnet.ru"
   },
   "main": "dist/index.js",
   "scripts": {
